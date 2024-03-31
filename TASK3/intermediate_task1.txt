@@ -1,0 +1,4 @@
+mkdir link-shortener-api
+cd link-shortener-api
+npm init -y
+npm install express mongoose valid-url shortid

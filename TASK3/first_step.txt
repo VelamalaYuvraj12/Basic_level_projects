@@ -1,0 +1,9 @@
+Set up the ReactJS project:
+bash
+
+npx create-react-app weather-forecast-app
+cd weather-forecast-app
+Install necessary packages:
+bash
+
+npm install axios
